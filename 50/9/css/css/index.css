@@ -23,7 +23,7 @@ body{
 #content{
 	margin-top:10px;
 	padding-top:10px;
-	background-image:url(../../img/banner4.jpg) repeat-y;
+	background-image:url(../../img/banner4.jpg);
 	background-attachment:fixed;
 }
 #footer ul{
